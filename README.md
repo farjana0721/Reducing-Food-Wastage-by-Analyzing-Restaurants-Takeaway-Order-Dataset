@@ -1,4 +1,5 @@
 # Reducing Food Wastage by Analyzing Restaurants Takeaway Orders Dataset
+
 This is my first Master's project in a datamangement course. The project was completed along with my partner Moin Shahriyar under the supervision of our Professor Vimala Nunavath. <br><br>
 **The main motto of the project was analyzing data and visualize it so that output can be predicted.**
 
