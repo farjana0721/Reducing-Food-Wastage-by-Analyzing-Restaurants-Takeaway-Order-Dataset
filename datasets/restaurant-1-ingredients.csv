@@ -1,0 +1,249 @@
+Id,Item Name,Ingredients
+1,Plain Papadum,Gram Flour
+2,Mint Sauce,Mint
+3,Lime Pickle,Lime
+4,Mango Chutney,Mango
+5,Red Sauce,Tomato
+6,Onion Chutney,Onion
+7,Spicy Papadum,Gram Flour
+8,Chapati,Wheat Flour
+9,Puree,Heavy Cream
+10,Tandoori Roti,Wheat Flour
+11,Plain Naan,Wheat Flour
+12,Raitha,Yogurt
+13,Keema Naan,Meat
+14,Peshwari Naan,Wheat Flour
+15,Pilau Rice,Rice
+16,Green Salad,Vegetables
+17,Bottle Coke,
+18,Plain Rice,Rice
+19,Garlic Naan,Wheat Flour
+20,Onion Naan,Wheat Flour
+21,Paratha,White Flour
+22,Bottle Diet Coke,
+23,Kulcha Naan,White Flour
+24,Lemonade 1.5 ltr,Lime
+25,Diet Coke 1.5 ltr,
+26,Coke 1.5 ltr,
+27,Dhansak Sauce,Meat
+28,Onion Bhajee,Vegetables
+29,Lemon Rice,Rice
+30,French Fries,Potato
+31,Garlic Rice,Rice
+32,Onion Rice,Rice
+33,Perrier Water (750ml),
+34,Special Fried Rice,Rice
+35,Meat Samosa,Meat
+36,Mushroom Rice,Mushroom
+37,Korma Sauce,Milk
+38,Vegetable Rice,Vegetables
+39,Egg Rice,Egg
+40,Curry Sauce,Vegetables
+41,Egg Paratha,Egg
+42,Keema Rice,Meat
+43,Stuffed Paratha,Wheat Flour
+44,COBRA (330ML),
+45,Saag Rice,Saag
+46,Masala Sauce,Spices
+47,Madras Sauce,Spices
+48,Vindaloo Sauce,Spices
+49,Bengal Salad,Tomato
+50,Still Water (750ml),
+51,Prier Water (750ml),
+52,Onion Bhaji,Vegetables 
+53,Chicken Tikka,Chicken
+54,Aloo Chaat,Potato
+55,Tandoori Chicken (1/4),Chicken
+56,Chicken Chaat,Chicken
+57,Prawn Puree,Prawn
+58,Lamb Tikka,Lamb
+59,Vegetable Roll,Vegetables
+60,Sheek Kebab,Meat
+61,Sheek Kehab,Meat
+62,Vegetable Samosa,Vegetables
+63,King Prawn Puree,Prawn
+64,Bhindi Bhajee,Bhindi
+65,Tarka Dall,Lentil
+66,Saag Paneer,Saag
+67,Baingan Hari Mirch,Eggplant
+68,Chicken Pakora,Chicken
+69,COBRA ( LARGE ),
+70,Royal Paneer,Cheese
+71,Muttar Paneer,Cheese
+72,Chana Masala,Chickpeas
+73,Bombay Aloo,Potato
+74,Saag Aloo,Saag
+75,Aloo Methi,Potato
+76,Saag Bhajee,Saag
+77,Cauliflower Bhajee,Cauliflower
+78,Saag Dall,Saag
+79,Aloo Gobi,Potato
+80,Mixed Vegetable Curry,Vegetables
+81,Mushroom Bhajee,Mushroom
+82,Mixed Starter,Fruits
+83,Tandoori Fish,Fish
+84,Brinjal Bhajee,Brinjal
+85,Vegetable Mysore,Vegetables
+86,King Prawn Butterfly,Prawn
+87,Dall Samba,Lentil
+88,COBRA (660ML),
+89,Chicken Chaat Main,Chicken
+90,Madras - Chicken,Chicken
+91,Madras - Lamb,Lamb
+92,Curry - Chicken,Chicken
+93,Vindaloo - Chicken,Chicken
+94,Madras - Chicken Tikka,Chicken
+95,Curry - Lamb,Lamb
+96,Curry - Chicken Tikka,Chicken
+97,Vindaloo - Chicken Tikka,Chicken
+98,Vindaloo - Lamb,Lamb
+99,Madras,
+100,Curry,Vegetables
+101,Vindaloo,Vegetables
+102,Korma - Chicken,Chicken
+103,Chicken Tikka Masala,Chicken
+104,Pathia - Chicken Tikka,Chicken
+105,Chicken Tikka Jalfrezi,Chicken
+106,Methi - Lamb,Lamb
+107,Tandoori Chicken (Main),Chicken
+108,Bhuna - Chicken,Chicken
+109,Korma - Chicken Tikka,Chicken
+110,Chicken Tikka (Main),Chicken
+111,Paneer Tikka Masala,Cheese
+112,Dupiaza - Chicken,Chicken
+113,Bhuna - Chicken Tikka,Chicken
+114,Pathia - Lamb,Lamb
+115,Chicken Karahi,Chicken
+116,Bhuna - Lamb,Lamb
+117,Dhansak - Chicken Tikka,Chicken
+118,Dhansak - Chicken,Chicken
+119,Rogon - Lamb,Lamb
+120,Chicken Tikka Pasanda,Chicken
+121,Pathia - Chicken,Chicken
+122,Lamb Tikka Masala,Lamb
+123,Lamb Tikka Jalfrezi,Lamb
+124,Lamb Karahi,Lamb
+125,Madras - Prawn,Prawn
+126,Lamb Tikka (Main),Lamb
+127,Lamb Tikka Pasanda,Lamb
+128,Lamb Tikka Garlic,Lamb
+129,Chicken Tikka Garlic,Chicken
+130,Chicken Tikka Chilli Masala,Chicken
+131,Dupiaza - Chicken Tikka,Chicken
+132,Mushroom - Chicken,Chicken
+133,Dhansak - Lamb,Lamb
+134,Sheek Kebab (Main),Lamb
+135,Saag - Chicken,Chicken
+136,Tandoori Chicken Masala,Chicken
+137,Saag - Chicken Tikka,Chicken
+138,Dupiaza - Lamb,Lamb
+139,Curry - Prawn,Prawn
+140,Saag - Lamb,Lamb
+141,Korma - Lamb,Lamb
+142,Mushroom - Lamb,Lamb
+143,Rogon - Chicken Tikka,Chicken
+144,Lamb Tikka Chilli Masala,Lamb
+145,Vindaloo - Prawn,Prawn
+146,Methi - Chicken Tikka,Chicken
+147,Vegetable Karahi,Vegetables
+148,Rogon - Chicken,Chicken
+149,Mushroom - Chicken Tikka,Chicken
+150,Methi - Chicken,Chicken
+151,Lamb Tikka Jeera,Lamb
+152,Chicken Tikka Jeera,Chicken
+153,Bhuna,Onion
+154,Saag,Saag
+155,Dhansak,Vegetables
+156,Pathia,Spices
+157,Korma,Milk Cream
+158,Dupiaza,Onion
+159,Methi,Fenugreek
+160,Rogon,Spices
+161,Mushroom,Mushroom
+162,Tandoori Chicken,Chicken
+163,Chicken Shashlick,Chicken
+164,Chicken Roshni,Chicken
+165,Chicken Balti,Chicken
+166,Lamb Balti,Lamb
+167,Butter Chicken,Chicken
+168,Lamb Hari Mirch,Lamb
+169,Chicken Chilli Garlic,Chicken
+170,Lamb Biryani,Lamb
+171,Vegetable Biryani,Vegetables
+172,Chicken Rezala,Chicken
+173,Lamb Rezala,Lamb
+174,Chicken Tikka Karahi,Chicken
+175,Chicken Hari Mirch,Chicken
+176,Chicken Biryani,Chicken
+177,Lamb Shashlick,Lamb
+178,Bhuna - Prawn,Prawn
+179,Chicken Haryali,Chicken
+180,Lamb Chilli Garlic,Lamb
+181,Paneer Shaslick,Cheese
+182,Chicken Mysore,Chicken
+183,Paneer Tikka Karahi,Cheese
+184,Lamb Achar,Lamb
+185,Paneer Tikka Sizzler,Cheese
+186,Chicken Tikka Sizzler,Chicken
+187,Lal Mirch Chicken,Chicken
+188,Lamb Tikka Karahi,Lamb
+189,Prawn Karahi,Prawn
+190,Lal Mirch Lamb,Lamb
+191,Korma - Prawn,Prawn
+192,Lamb Haryali,Lamb
+193,Lamb Sylhet,Lamb
+194,Vegetable Balti,Vegetables
+195,Dhansak - Prawn,Prawn
+196,Lamb Mysore,Lamb
+197,Chicken Sylhet,Chicken
+198,Lamb Tikka Sizzler,Lamb
+199,Pathia - Prawn,Prawn
+200,Chicken Achar,Chicken
+201,Dupiaza - Prawn,Prawn
+202,Lamb Roshni,Lamb
+203,Saag - Prawn,Prawn
+204,Methi - Prawn,Prawn
+205,Rogon - Prawn,Prawn
+206,Mushroom - Prawn,Prawn
+207,Lamb Tikka Biryani,Lamb
+208,Chicken Tikka Balti,Chicken
+209,Lamb Tikka Balti,Lamb
+210,Prawn Biryani,Prawn
+211,Paneer Tikka Balti,Cheese
+212,Chicken Tikka Biryani,Chicken
+213,Persian Lamb Biryani,Lamb
+214,Prawn Balti,Prawn
+215,Persian Chicken Biryani,Chicken
+216,Lamb Persian,Lamb
+217,Tandoori Mixed Grill,Spices
+218,Curry - King Prawn,Prawn
+219,Madras - King Prawn,Prawn
+220,Tandoori Fish (Main),Fish
+221,Vindaloo - King Prawn,Prawn
+222,Tandoori King Prawn Garlic,Prawn
+223,Chicken Shashlick Curry,Chicken
+224,King Prawn Hari Mirch,Prawn
+225,Hazary Lamb Chilli Garlic,Lamb
+226,Lamb Shashlick Curry,Lamb
+227,King Prawn Shaslick,Prawn
+228,Dhansak - King Prawn,Prawn
+229,Bengal King Prawn,Prawn
+230,Korma - King Prawn,Prawn
+231,Bhuna - King Prawn,Prawn
+232,Hazary Lamb,Lamb
+233,Bengal Fish Biryani,Fish
+234,Tandoori King Prawn Masala,Prawn
+235,King Prawn Biryani,Prawn
+236,Saag - King Prawn,Saag
+237,Dupiaza - King Prawn,Prawn
+238,Pathia - King Prawn,Prawn
+239,Bengal Fry Fish,Fish
+240,King Prawn Balti,Prawn
+241,Bengal Fish Karahi,Fish
+242,Rogon - King Prawn,Prawn
+243,Mushroom - King Prawn,Mushroom
+244,King Prawn Karahi,Prawn
+245,Methi - King Prawn,Prawn
+246,Kurma,Heavy Cream
+247,House Red wine 75cl,
+248,House white wine 75cl,
