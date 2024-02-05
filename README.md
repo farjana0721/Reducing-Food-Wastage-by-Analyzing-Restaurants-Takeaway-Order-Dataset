@@ -1,14 +1,14 @@
-# Data Management Project- "Reducing Food Wastage by Analyzing Restaurants Takeaway Orders Dataset"
-This is my first Master's level project. The project was completed along with my partner Farjana Alam under the supervision of our Professor Vimala Nunavath. <br><br>
+# Reducing Food Wastage by Analyzing Restaurants Takeaway Orders Dataset
+This is my first Master's project in a datamangement course. The project was completed along with my partner Moin Shahriyar under the supervision of our Professor Vimala Nunavath. <br><br>
 **The main motto of the project was analyzing data and visualize it so that output can be predicted.**
 
-**Locations of important files and datasets:**
+**Folders and Files Description:**
 
-- Datasets can be found under the Datasets folder
+- Dataset: Datasets can be found under the Datasets folder
 
-- Jupyter Notebook runnable file is inside ipynb-Jupyter Notebook folder
+- ipynb-Jupyter Notebook: Jupyter Notebook python file are inside this folder
 
-- Power BI runnable file can be found inside pbix-Power BI folder.
+- pbix-Power BI: Power BI runnable file can be found inside pbix-Power BI folder.
 
 **How to run the ipynb file:**
 
@@ -27,19 +27,19 @@ This is my first Master's level project. The project was completed along with my
 - Download PowerBI from this link: https://powerbi.microsoft.com/en-au/getting-started-with-power-bi/
 - In section 3 of ipynb file, put the directory where restaurant-1-orders and restaurant-2-orders are saved.
 
-![ss1](https://github.com/Moin-Shahriyar/Data-Management-Project-Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Orders-Dataset-/blob/main/Screenshots/ss1.PNG)
+![ss1](https://github.com/farjana0721/Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Order-Dataset/blob/main/Screenshots/ss1.PNG)
 
 - In section 12, put the directory where restaurant-1-ingredients and restaurant-2-ingredients datasets are saved.
 
-![ss2](https://github.com/Moin-Shahriyar/Data-Management-Project-Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Orders-Dataset-/blob/main/Screenshots/ss2.PNG)
+![ss2](https://github.com/farjana0721/Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Order-Dataset/blob/main/Screenshots/ss2.PNG)
 
 - In sections 19 and 20, put your desired local directory where you want to save the restaurant-1-details and restaurant-2-details datasets.
 
-![ss3](https://github.com/Moin-Shahriyar/Data-Management-Project-Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Orders-Dataset-/blob/main/Screenshots/ss3.PNG)
+![ss3](https://github.com/farjana0721/Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Order-Dataset/blob/main/Screenshots/ss3.PNG)
 
 - In section 21, put the directory where you saved restaurant-1-details and restaurant-2-details datasets.
 
-![ss4](https://github.com/Moin-Shahriyar/Data-Management-Project-Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Orders-Dataset-/blob/main/Screenshots/ss4.PNG)
+![ss4]https://github.com/farjana0721/Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Order-Dataset/blob/main/Screenshots/ss4.PNG)
 
 - **Tips:** You can skip by commenting out sections 17-20 as it will take a lot of time for data entry. You can use the attached dataset named restaurant-1-details and restaurant-2-details for loading the restaurant orders with ingredients. However, you must change the directory according to your saved location.
 
@@ -56,17 +56,17 @@ https://www.magnitude.com/drivers/mongodb-odbc-jdbc?utm_source=google&utm_medium
 
 - After downloading and Installing Simba ODBC create a system DSN like the figure given below,
 
-![ss5](https://github.com/Moin-Shahriyar/Data-Management-Project-Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Orders-Dataset-/blob/main/Screenshots/ss5.PNG)
+![ss5](https://github.com/farjana0721/Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Order-Dataset/blob/main/Screenshots/ss5.PNG)
 
 - Now open Power BI and select ODBC then click connect
 
-![ss6](https://github.com/Moin-Shahriyar/Data-Management-Project-Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Orders-Dataset-/blob/main/Screenshots/ss6.PNG)
+![ss6](https://github.com/farjana0721/Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Order-Dataset/blob/main/Screenshots/ss6.PNG)
 
 - Select the DSN that you have created, in my case it is BigData
 
-![ss7](https://github.com/Moin-Shahriyar/Data-Management-Project-Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Orders-Dataset-/blob/main/Screenshots/ss7.PNG)
+![ss7](https://github.com/farjana0721/Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Order-Dataset/blob/main/Screenshots/ss7.PNG)
 
 - Now you can find all the datasets in Power BI which were in MongoDB
 
-![ss8](https://github.com/Moin-Shahriyar/Data-Management-Project-Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Orders-Dataset-/blob/main/Screenshots/ss8.PNG)
+![ss8](https://github.com/farjana0721/Reducing-Food-Wastage-by-Analyzing-Restaurants-Takeaway-Order-Dataset/blob/main/Screenshots/ss8.PNG)
 
